@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/georgiathomas/Desktop/StartChat-Clone/TMessagesProj/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/georgiathomas/Desktop/StartChat-Clone/TMessagesProj/build/intermediates/pre-dexed/debug/classes-b39125e90c2857aadccd596377d4471715739eb5.jar" />
+    </item>
+    <item
+        jar="/Users/georgiathomas/Desktop/StartChat-Clone/TMessagesProj/build/intermediates/exploded-aar/com.google.android.gms/play-services/3.2.65/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="23023656ba91dc12e963cf7d5682db5d2aba6262">
+        <dex dex="/Users/georgiathomas/Desktop/StartChat-Clone/TMessagesProj/build/intermediates/pre-dexed/debug/classes-ae9c4081727375fd750d76eddd35714428a9577f.jar" />
+    </item>
+    <item
+        jar="/Users/georgiathomas/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpcore/4.2.1/2d503272bf0a8b5f92d64db78b4ba9abbaccc6fd/httpcore-4.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2d503272bf0a8b5f92d64db78b4ba9abbaccc6fd">
+        <dex dex="/Users/georgiathomas/Desktop/StartChat-Clone/TMessagesProj/build/intermediates/pre-dexed/debug/httpcore-4.2.1-25978d3d6d8bdd6e0f42913cd94eabd428f4d4f1.jar" />
+    </item>
+    <item
+        jar="/Users/georgiathomas/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/Users/georgiathomas/Desktop/StartChat-Clone/TMessagesProj/build/intermediates/pre-dexed/debug/support-annotations-23.1.1-4afea2507a693b0fb9db31d194cb5a86840a4417.jar" />
+    </item>
+    <item
+        jar="/Users/georgiathomas/Desktop/StartChat-Clone/TMessagesProj/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/georgiathomas/Desktop/StartChat-Clone/TMessagesProj/build/intermediates/pre-dexed/debug/internal_impl-23.1.1-1d4269c51860a207744f751ede5fe6764af7c514.jar" />
+    </item>
+    <item
+        jar="/Users/georgiathomas/.gradle/caches/modules-2/files-2.1/com.googlecode.mp4parser/isoparser/1.0.6/2f9b0233a54d1fcbf84867b0e2518842cb0cd965/isoparser-1.0.6.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2f9b0233a54d1fcbf84867b0e2518842cb0cd965">
+        <dex dex="/Users/georgiathomas/Desktop/StartChat-Clone/TMessagesProj/build/intermediates/pre-dexed/debug/isoparser-1.0.6-7f64c1bcf59c12850952edd252e54c966fe6399d.jar" />
+    </item>
+    <item
+        jar="/Users/georgiathomas/.gradle/caches/modules-2/files-2.1/net.hockeyapp.android/HockeySDK/3.5.0/1624c0039a56f9cc45915def1632c225326c3c03/HockeySDK-3.5.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1624c0039a56f9cc45915def1632c225326c3c03">
+        <dex dex="/Users/georgiathomas/Desktop/StartChat-Clone/TMessagesProj/build/intermediates/pre-dexed/debug/HockeySDK-3.5.0-00ca4e009c1f4824c28e77ba0c47e6be3a798aa8.jar" />
+    </item>
+    <item
+        jar="/Users/georgiathomas/.gradle/caches/modules-2/files-2.1/org.aspectj/aspectjrt/1.8.2/7dede91c0c36b1265fc99c55283b90ed2be144c8/aspectjrt-1.8.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="7dede91c0c36b1265fc99c55283b90ed2be144c8">
+        <dex dex="/Users/georgiathomas/Desktop/StartChat-Clone/TMessagesProj/build/intermediates/pre-dexed/debug/aspectjrt-1.8.2-8ec42da44b0951e51467d703bf201999fca3301b.jar" />
+    </item>
+    <item
+        jar="/Users/georgiathomas/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpmime/4.2.1/7c772bace9aa31a728c39a88c6ff66a7cd177e89/httpmime-4.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="7c772bace9aa31a728c39a88c6ff66a7cd177e89">
+        <dex dex="/Users/georgiathomas/Desktop/StartChat-Clone/TMessagesProj/build/intermediates/pre-dexed/debug/httpmime-4.2.1-e1f82f781dc57219b712e9dd93e7f70dfc2f15d5.jar" />
+    </item>
+
+</items>
